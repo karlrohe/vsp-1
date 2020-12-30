@@ -1,5 +1,5 @@
 Type: Package
-Package: vsp
+Package: vsp2
 Title: Vintage Sparse PCA for Semi-Parametric Network Factor
     Analysis
 Version: 0.0.0.9007
